@@ -138,13 +138,14 @@ To reproduce experiments:
 ```
 
 ## 📚 Reference
-Humphrey, Eric J., Simon Durand, and Brian McFee.
+<a href="https://brianmcfee.net/papers/ismir2018_openmic.pdf">Humphrey, Eric J., Simon Durand, and Brian McFee.
 “OpenMIC-2018: An Open Dataset for Multiple Instrument Recognition.”
-ISMIR 2018.
+ISMIR 2018.</a>
 
 ## 👩‍💻 Author
 Dhvani Panseriya \
 MSc Artificial Intelligence
 
 Brandenburg Technical University Cottbus-Senftenberg
+
 
