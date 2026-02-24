@@ -64,11 +64,15 @@ MIR-OpenMic-2018/
 │
 ├── README.md
 ├── requirements.txt
+├── .gitignore
 │
 ├── src/
 │   ├── data.py
 │   ├── model.py
 │   └── train.py
+│
+└── results/
+    └── results_summary.md
 ```
 <b>File Responsibilities</b>
 
@@ -141,4 +145,5 @@ ISMIR 2018.
 ## 👩‍💻 Author
 Dhvani Panseriya \
 MSc Artificial Intelligence\
+
 Brandenburg Technical University Cottbus-Senftenberg
