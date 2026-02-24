@@ -1,1 +1,2 @@
-# MIR-OpenMic-2018
+🎵 Handling Class Imbalance in Multi-Label Instrument Recognition
+Random Forest on OpenMIC-2018
