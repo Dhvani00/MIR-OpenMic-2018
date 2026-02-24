@@ -144,6 +144,7 @@ ISMIR 2018.
 
 ## 👩‍💻 Author
 Dhvani Panseriya \
-MSc Artificial Intelligence\
+MSc Artificial Intelligence
 
 Brandenburg Technical University Cottbus-Senftenberg
+
