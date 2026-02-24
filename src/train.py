@@ -52,12 +52,12 @@ def main():
     # --------------------------------------------------
     # Select model
     # --------------------------------------------------
-    if args.strategy == "baseline":
-        model = build_baseline_model(args.random_state)
-    elif args.strategy == "weighted":
+    if args.strategy == "weighted":
         model = build_weighted_model(args.random_state)
-    else:
+    elif args.strategy == "oversample":
         model = build_oversampled_model(args.random_state)
+    else:
+        model = build_baseline_model(args.random_state)
 
     # --------------------------------------------------
     # Train
